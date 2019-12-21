@@ -25,4 +25,17 @@ curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinit.sh |bash
   7. config vim and bash;
   8. timeservice;
 
+
+## sysinfo.sh
+This is a script for display system info.
+If you want to use this script,you can input:
+```bash
+curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinfo.sh |bash
+```
+* This is script will display:
+  * cpu info
+  * mem info
+  * disk info
+  * OS version info
+
 ### [MyBlog:Some Linux blog here.](http://111.231.85.97)
