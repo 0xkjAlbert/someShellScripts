@@ -2,14 +2,14 @@
 Some Linux bash scripts like lamp.sh.
 
 ## lamp.sh
-This is a script for download lamp and install wordpress on a CentOS server.
+This is a script for download lamp and install wordpress on a CentOS server.  
 If you want to use this script,you must:
 * Please install a yum repo;
 * Please edit database password;
 * Please read README.md;
 
 ## sysinit.sh
-This is a script for init CentOS Linux.
+This is a script for init CentOS Linux.  
 If you want to use this script,you can input:
 ```bash
 curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinit.sh |bash
@@ -27,10 +27,10 @@ curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinit.sh |bash
 
 
 ## sysinfo.sh
-This is a script for display system info.
-If you want to use this script,you can input:
+This is a script for display system info.  
+If you want to use this script,you can input:  
 ```bash
-curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinfo.sh |bash
+curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinfo.sh |bash  
 ```
 * This is script will display:
   * cpu info
