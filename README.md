@@ -1,4 +1,4 @@
-# someShellScripts
+# SomeShellScripts
 Some Linux bash scripts like lamp.sh.
 
 ## lamp.sh
