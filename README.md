@@ -6,7 +6,7 @@ This is a script for download lamp and install wordpress on a CentOS server.
 If you want to use this script,you must:
 * Please install a yum repo;
 * Please edit database password;
-* Please read README.md
+* Please read README.md;
 
 ## sysinit.sh
 This is a script for init CentOS Linux.

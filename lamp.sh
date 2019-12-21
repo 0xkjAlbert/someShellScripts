@@ -30,6 +30,7 @@ httpd='httpd-2.4.41'
 aprutil='apr-util-1.6.1'
 httpdDir='/app/apache'
 httpdDataDir='/data/wordpress'
+wordpressVersion='wordpress-5.3-zh_CN'
 wordpressDBPassword=xxxxxx
 
 #download install packages
@@ -42,7 +43,7 @@ wget https://mirrors.tuna.tsinghua.deu.cn/apache//httpd/${httpd}.tar.gz
 wget https://mirrors.tuna.tsinghua.deu.cn/apr/${apr}.tar.gz
 wget https://mirrors.tuna.tsinghua.deu.cn/apr/${aprutil}.tar.gz
 wget https://www.php.net/distributions/php-7.3.12.tar.xz
-wget https://cn.wordpress.org/wordpress-5.3-zh_CN.tar.gz
+wget https://cn.wordpress.org/${wordpressVersion}.tar.gz
 
 #mariadb
 yum install libaio -y
@@ -140,6 +141,8 @@ ProxyPassMatch ^/(.*\.php)$ fcgi://127.0.0.1:9000/data/wordpress/$1
 #wordpress
 cd ~
 mkdir -pv /data/
-tar xf wordpress-5.3-zh_CN.tar.gz -C /data/
+tar xf ${wordpressVersion}.tar.gz -C /data/
 chown -R apache.apache /data/wordpress
 /app/httpd24/bin/apachectl start
+echo '/app/httpd24/bin/apachectl start' >>/etc/rc.local
+chmod +x /etc/rc.local
