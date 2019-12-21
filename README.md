@@ -16,4 +16,4 @@ curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinit.sh |bash
 ```
 ### Warning:You must use root user!
 
-## [MyBlog:Some Linux blog here.](http://111.231.85.97)
+### [MyBlog:Some Linux blog here.](http://111.231.85.97)
