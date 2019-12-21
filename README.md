@@ -15,7 +15,7 @@ If you want to use this script,you can input:
 curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinit.sh |bash
 ```
 ### Warning:You must use root user!
-This script will do:
+* This script will do:
   1. close firewall;
   2. close SELinux;
   3. change $PS1;
