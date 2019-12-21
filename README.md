@@ -15,13 +15,14 @@ If you want to use this script,you can input:
 curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinit.sh |bash
 ```
 ### Warning:You must use root user!
-1. close firewall;
-2. close SELinux;
-3. change $PS1;
-4. change runlevel;
-5. change yum repo;
-6. install autofs;
-7. config vim and bash;
-8. timeservice;
+This script will do:
+  1. close firewall;
+  2. close SELinux;
+  3. change $PS1;
+  4. change runlevel;
+  5. change yum repo;
+  6. install autofs;
+  7. config vim and bash;
+  8. timeservice;
 
 ### [MyBlog:Some Linux blog here.](http://111.231.85.97)
