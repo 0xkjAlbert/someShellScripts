@@ -12,7 +12,7 @@ If you want to use this script,you must:
 This is a script for init CentOS Linux.  
 If you want to use this script,you can input:
 ```bash
-curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinit.sh |bash
+curl https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/sysinit.sh |bash
 ```
 ### Warning:You must use root user!
 * This script will do:
@@ -30,7 +30,7 @@ curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinit.sh |bash
 This is a script for display system info.  
 If you want to use this script,you can input:  
 ```bash
-curl https://github.com/0xkjAlbert/someShellScripts/raw/master/sysinfo.sh |bash  
+curl https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/sysinfo.sh |bash  
 ```
 * This is script will display:
   * cpu info
