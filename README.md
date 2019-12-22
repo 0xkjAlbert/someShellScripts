@@ -15,7 +15,7 @@ If you want to use this script,you can input:
 curl https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/sysinit.sh |bash
 ```
 ### Warning:You must use root user!
-* This script will do:
++ This script will do:
   1. close firewall;
   2. close SELinux;
   3. change $PS1;
@@ -30,7 +30,7 @@ curl https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/sysini
 This is a script for display system info.  
 If you want to use this script,you can input:  
 ```bash
-curl https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/sysinfo.sh |bash  
+curl https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/sysinfo.sh >sysinfo.sh;bash sysinfo.sh  
 ```
 * This is script will display:
   * cpu info
