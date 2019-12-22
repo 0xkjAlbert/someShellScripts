@@ -16,14 +16,14 @@ curl https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/sysini
 ```
 ### Warning:You must use root user!
 + This script will do:
-  1. close firewall;
-  2. close SELinux;
-  3. change $PS1;
-  4. change runlevel;
-  5. change yum repo;
-  6. install autofs;
-  7. config vim and bash;
-  8. timeservice;
+  *  close firewall;
+  *  close SELinux;
+  *  change $PS1;
+  *  change runlevel;
+  *  change yum repo;
+  *  install autofs;
+  *  config vim and bash;
+  *  timeservice;
 
 
 ## sysinfo.sh
