@@ -32,10 +32,21 @@ If you want to use this script,you can input:
 ```bash
 curl https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/sysinfo.sh >sysinfo.sh;bash sysinfo.sh  
 ```
-* This is script will display:
-  * cpu info
-  * mem info
-  * disk info
-  * OS version info
+* This script will display:
+  * cpu info;
+  * mem info;
+  * disk info;
+  * OS version info;
+
+## firewalld.sh
+This is a script for open firewalld.
+If you want to use this script,you can input:
+```bash
+curl https://https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/master/firewalld.sh |bash
+```
+* This script will do:
+  * open firewall;
+  * add ssh service into firewall allow list;
+  * add httpd into firewall allow list;
 
 ### [MyBlog:Some Linux blog here.](http://111.231.85.97)
