@@ -22,3 +22,16 @@ w
 
 EOF
 
+#extlinux.conf文件
+cat <<EOF >extlinux.conf
+default menu.c32
+timeout 600
+
+menu title Auto Install CentOS
+
+label linux
+  menu label ^Install CentOS
+  kernel vmlinuz
+append initrd=initrd.img ks=hd:sdb1:/ksdir/ks.cfg
+EOF
+
