@@ -49,4 +49,8 @@ curl https://https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/maste
   * add ssh service into firewall allow list;
   * add httpd into firewall allow list;
 
+## extlinux.sh
+This is a script for make a extlinux Udisk.
+
+
 ### [MyBlog:Some Linux blog here.](http://111.231.85.97)
