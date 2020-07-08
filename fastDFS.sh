@@ -9,6 +9,9 @@
 #********************************************************************
 #
 # vars
+if [ ! -f /etc/redhat-release ];then
+	exit 2
+fi
 trackerServer="
 tracker_server = 192.168.39.102:22122
 "
