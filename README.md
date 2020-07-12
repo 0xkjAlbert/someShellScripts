@@ -53,9 +53,12 @@ curl https://https://raw.githubusercontent.com/0xkjAlbert/someShellScripts/maste
 This is a script for make a extlinux Udisk.
 
 
-### [MyBlog:Some Linux blog here.](http://111.231.85.97)
+### [MyBlog:Some Linux blog here.](http://gaokejian.cn)
 
 
-# NightingaleInstall.sh
+## NightingaleInstall.sh
 This is a script for install Nightingale.
 The Nightingale is a didi monitoring software.
+
+## mysqlQuotationMarks.sh
+This is a script for shell exec SQL.
