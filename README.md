@@ -62,3 +62,6 @@ The Nightingale is a didi monitoring software.
 
 ## mysqlQuotationMarks.sh
 This is a script for shell exec SQL.
+
+## fastDFS.sh
+This is a script for install fastDFS.
