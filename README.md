@@ -65,3 +65,10 @@ This is a script for shell exec SQL.
 
 ## fastDFS.sh
 This is a script for install fastDFS.
+
+## CentOSLNMP.sh
+This is a script for install LNMP wordpress on CentOS.
+
+## UbuntuLNMP.sh
+This is a script for install LNMP wordpress on Ubuntu.
+
