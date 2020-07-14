@@ -72,3 +72,8 @@ This is a script for install LNMP wordpress on CentOS.
 ## UbuntuLNMP.sh
 This is a script for install LNMP wordpress on Ubuntu.
 
+## phpLibgdInstallCentOS.sh
+This is a script for install php gd-lib to show pictrre.
+
+## phpLibgdInstalUbuntu.sh
+This is a script for install php gd-lib to show pictrre.
