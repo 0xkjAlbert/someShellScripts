@@ -77,3 +77,6 @@ This is a script for install php gd-lib to show pictrre.
 
 ## phpLibgdInstalUbuntu.sh
 This is a script for install php gd-lib to show pictrre.
+
+## youGetBilibili.sh
+This is a script for download bilibili video.
