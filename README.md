@@ -80,3 +80,6 @@ This is a script for install php gd-lib to show pictrre.
 
 ## youGetBilibili.sh
 This is a script for download bilibili video.
+
+## nightingaleMultiInstall.sh
+This is a script for install n9e system.
