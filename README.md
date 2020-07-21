@@ -83,3 +83,4 @@ This is a script for download bilibili video.
 
 ## nightingaleMultiInstall.sh
 This is a script for install n9e system.
+2020.7.21 update this script.
