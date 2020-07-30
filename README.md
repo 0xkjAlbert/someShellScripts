@@ -81,6 +81,10 @@ This is a script for install php gd-lib to show pictrre.
 ## youGetBilibili.sh
 This is a script for download bilibili video.
 
+## ncduInstall.sh
+This is a script for install ncdu.
+Ncdu is a watch file memory program.
+
 ## nightingaleMultiInstall.sh
 This is a script for install n9e system.
 2020.7.21 update this script.
