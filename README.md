@@ -88,3 +88,6 @@ Ncdu is a watch file memory program.
 ## nightingaleMultiInstall.sh
 This is a script for install n9e system.
 2020.7.21 update this script.
+
+## awkRpmCve.sh
+This is a awk script for rpm to cve.
