@@ -91,3 +91,6 @@ This is a script for install n9e system.
 
 ## awkRpmCve.sh
 This is a awk script for rpm to cve.
+
+## phpLibCurlInstall.sh
+This is a script for install libcurl solve curl_init().
